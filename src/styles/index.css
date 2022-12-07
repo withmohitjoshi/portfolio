@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,500;0,700;1,200;1,300&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Montserrat", sans-serif;
+  }
+  body {
+    @apply bg-gray-300;
+  }
+}
+
+@layer components {
+  .svg-color {
+    accent-color: gray;
+  }
+  .social-media {
+    @apply hover:text-white duration-200;
+  }
+  .contact-me-form {
+    @apply border-2 border-gray-300 py-2 px-1 sm:py-3 sm:px-2 rounded-lg text-[0.8rem] xs:text-xs sm:text-[1rem] lg:text-xl focus:outline-sky-500 text-gray-900 font-medium;
+  }
+  .contact-form-error-msg {
+    @apply pt-2 pb-3 text-red-600 text-[0.6rem] md:text-[0.95rem] font-semibold;
+  }
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(132, 135, 139);
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(88, 87, 87);
+}
+@media screen and (max-width: 425px) {
+  ::-webkit-scrollbar {
+    width: 5px;
+  }
+}
