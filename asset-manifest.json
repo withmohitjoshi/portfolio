@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.537a408d.css",
+    "main.js": "/portfolio/static/js/main.5a2c2ec8.js",
+    "static/media/my-image.jpg": "/portfolio/static/media/my-image.f649b1b3c672a7640fb3.jpg",
+    "static/media/testimonial-grid-component-ui.jpeg": "/portfolio/static/media/testimonial-grid-component-ui.2e5db7c07caf7e8e7368.jpeg",
+    "static/media/shopping-cart.jpeg": "/portfolio/static/media/shopping-cart.90a2ed2e34f3e9298842.jpeg",
+    "static/media/random-image-generator.jpeg": "/portfolio/static/media/random-image-generator.bf32166dd0d8765d41cf.jpeg",
+    "static/media/qr-code.png": "/portfolio/static/media/qr-code.8c56f50945bb3d4c143b.png",
+    "static/media/the-todo-app.jpeg": "/portfolio/static/media/the-todo-app.ef0aa00c4843ab3ac853.jpeg",
+    "static/media/order-summary-component-ui.jpeg": "/portfolio/static/media/order-summary-component-ui.ebf614f016db70814d65.jpeg",
+    "static/media/qr-code-component-ui.jpeg": "/portfolio/static/media/qr-code-component-ui.b0876f018254bbae09ff.jpeg",
+    "static/media/weather-app.jpeg": "/portfolio/static/media/weather-app.88b7a1c5caa0fe636227.jpeg",
+    "static/media/login-signup-ui.jpeg": "/portfolio/static/media/login-signup-ui.642bafba852b631b1469.jpeg",
+    "static/media/reactjs-logo.png": "/portfolio/static/media/reactjs-logo.9cd027a015adbe7c949d.png",
+    "static/media/reactjs-icon.svg": "/portfolio/static/media/reactjs-icon.3b317f1fd5e975a87dc1ba6613832f6d.svg",
+    "static/media/github-logo.png": "/portfolio/static/media/github-logo.3da0486894b515a5d7d8.png",
+    "static/media/tailwindcss-icon.svg": "/portfolio/static/media/tailwindcss-icon.7517d8268ceffdf1099e001fc08ce706.svg",
+    "static/media/typescript-icon.svg": "/portfolio/static/media/typescript-icon.3093239724acfe1b71682a7605abacc5.svg",
+    "index.html": "/portfolio/index.html",
+    "main.537a408d.css.map": "/portfolio/static/css/main.537a408d.css.map",
+    "main.5a2c2ec8.js.map": "/portfolio/static/js/main.5a2c2ec8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.537a408d.css",
+    "static/js/main.5a2c2ec8.js"
+  ]
+}
