@@ -1,6 +1,7 @@
 import { Element } from "react-scroll";
 import MyImage from "./components/MyImage";
 import SocialMedia from "./components/SocialMedia";
+import CV from "../../assets/Mohit-Resume.pdf";
 const Home = () => {
   return (
     <Element
@@ -21,7 +22,7 @@ const Home = () => {
             <SocialMedia />
             <a
               className="border-2 border-white w-fit text-white px-4 py-2 sm:px-6 sm:py-3 hover:bg-white hover:text-gray-900 duration-300 font-semibold text-xs self-center sm:self-start"
-              href="/Mohit-Resume.pdf"
+              href={CV}
               download={true}
             >
               Download CV
