@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e67a3f42.css",
-    "main.js": "/static/js/main.99e9f39f.js",
+    "main.js": "/static/js/main.9dd196a0.js",
     "static/media/my-image.jpg": "/static/media/my-image.f649b1b3c672a7640fb3.jpg",
     "static/media/testimonial-grid-component-ui.jpeg": "/static/media/testimonial-grid-component-ui.2e5db7c07caf7e8e7368.jpeg",
     "static/media/shopping-cart.jpeg": "/static/media/shopping-cart.90a2ed2e34f3e9298842.jpeg",
@@ -20,10 +20,10 @@
     "static/media/typescript-icon.svg": "/static/media/typescript-icon.3093239724acfe1b71682a7605abacc5.svg",
     "index.html": "/index.html",
     "main.e67a3f42.css.map": "/static/css/main.e67a3f42.css.map",
-    "main.99e9f39f.js.map": "/static/js/main.99e9f39f.js.map"
+    "main.9dd196a0.js.map": "/static/js/main.9dd196a0.js.map"
   },
   "entrypoints": [
     "static/css/main.e67a3f42.css",
-    "static/js/main.99e9f39f.js"
+    "static/js/main.9dd196a0.js"
   ]
 }
