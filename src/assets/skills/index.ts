@@ -7,6 +7,7 @@ import reactjsLogo from "./reactjs-logo.png";
 import githubLogo from "./github-logo.png";
 import nodejsLogo from "./nodejs-logo.png";
 import flutterLogo from "./flutter-logo.png";
+import reduxLogo from "./redux-logo.png"
 export const skillsLogo = {
   html5Logo,
   css3Logo,
@@ -17,4 +18,5 @@ export const skillsLogo = {
   githubLogo,
   nodejsLogo,
   flutterLogo,
+  reduxLogo
 };
