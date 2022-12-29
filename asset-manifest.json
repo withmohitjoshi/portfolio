@@ -1,18 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.e67a3f42.css",
-    "main.js": "/static/js/main.d7e9a6a5.js",
+    "main.js": "/static/js/main.0ef36047.js",
     "static/media/my-image.jpg": "/static/media/my-image.f649b1b3c672a7640fb3.jpg",
     "static/media/testimonial-grid-component-ui.jpeg": "/static/media/testimonial-grid-component-ui.2e5db7c07caf7e8e7368.jpeg",
-    "static/media/shopping-cart.jpeg": "/static/media/shopping-cart.90a2ed2e34f3e9298842.jpeg",
     "static/media/random-image-generator.jpeg": "/static/media/random-image-generator.bf32166dd0d8765d41cf.jpeg",
+    "static/media/weather-app.jpeg": "/static/media/weather-app.0155bd39370ec1259cf1.jpeg",
     "static/media/qr-code.png": "/static/media/qr-code.8c56f50945bb3d4c143b.png",
-    "static/media/the-todo-app.jpeg": "/static/media/the-todo-app.ef0aa00c4843ab3ac853.jpeg",
     "static/media/order-summary-component-ui.jpeg": "/static/media/order-summary-component-ui.ebf614f016db70814d65.jpeg",
-    "static/media/qr-code-component-ui.jpeg": "/static/media/qr-code-component-ui.b0876f018254bbae09ff.jpeg",
-    "static/media/weather-app.jpeg": "/static/media/weather-app.88b7a1c5caa0fe636227.jpeg",
     "static/media/Mohit-Resume.pdf": "/static/media/Mohit-Resume.b8e29ea54c6d6805dd0b.pdf",
-    "static/media/login-signup-ui.jpeg": "/static/media/login-signup-ui.642bafba852b631b1469.jpeg",
     "static/media/reactjs-logo.png": "/static/media/reactjs-logo.9cd027a015adbe7c949d.png",
     "static/media/reactjs-icon.svg": "/static/media/reactjs-icon.3b317f1fd5e975a87dc1ba6613832f6d.svg",
     "static/media/github-logo.png": "/static/media/github-logo.3da0486894b515a5d7d8.png",
@@ -20,10 +16,10 @@
     "static/media/typescript-icon.svg": "/static/media/typescript-icon.3093239724acfe1b71682a7605abacc5.svg",
     "index.html": "/index.html",
     "main.e67a3f42.css.map": "/static/css/main.e67a3f42.css.map",
-    "main.d7e9a6a5.js.map": "/static/js/main.d7e9a6a5.js.map"
+    "main.0ef36047.js.map": "/static/js/main.0ef36047.js.map"
   },
   "entrypoints": [
     "static/css/main.e67a3f42.css",
-    "static/js/main.d7e9a6a5.js"
+    "static/js/main.0ef36047.js"
   ]
 }
