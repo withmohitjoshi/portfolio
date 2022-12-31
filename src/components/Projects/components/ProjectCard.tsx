@@ -4,7 +4,18 @@ type ProjectCardDataType = {
   codeUrl: string;
   imageSrc: string;
 };
-const ProjectCard = ({ projectData }: { projectData: ProjectCardDataType }) => {
+const ProjectCard = ({
+  projectData,
+  setModalInfo,
+}: {
+  projectData: ProjectCardDataType;
+  setModalInfo: React.Dispatch<
+    React.SetStateAction<{
+      isOpen: boolean;
+      src: string;
+    }>
+  >;
+}) => {
   const { name, liveUrl, codeUrl, imageSrc } = projectData;
   return (
     <div className="w-full flex flex-col gap-2 items-center ">
@@ -15,6 +26,12 @@ const ProjectCard = ({ projectData }: { projectData: ProjectCardDataType }) => {
         src={imageSrc}
         alt={name}
         className="w-100 rounded-md sm:hover:scale-105 duration-200 cursor-pointer"
+        onClick={() =>
+          setModalInfo({
+            isOpen: true,
+            src: imageSrc,
+          })
+        }
       />
       <div className="w-full flex flex-row items-center justify-evenly text-sky-500 lg:text-xl">
         <a
