@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.e67a3f42.css",
-    "main.js": "/static/js/main.04b03705.js",
-    "static/media/my-image.jpg": "/static/media/my-image.f649b1b3c672a7640fb3.jpg",
+    "main.css": "/static/css/main.7692f7cf.css",
+    "main.js": "/static/js/main.77fe00d9.js",
+    "static/media/my-image.jpg": "/static/media/my-image.adc665dea2faf8a80ebf.jpg",
     "static/media/testimonial-grid-component-ui.jpeg": "/static/media/testimonial-grid-component-ui.2e5db7c07caf7e8e7368.jpeg",
     "static/media/random-image-generator.jpeg": "/static/media/random-image-generator.bf32166dd0d8765d41cf.jpeg",
-    "static/media/weather-app.jpeg": "/static/media/weather-app.0155bd39370ec1259cf1.jpeg",
+    "static/media/weather-app.jpeg": "/static/media/weather-app.7118b951cd9ca0b787f8.jpeg",
     "static/media/qr-code.png": "/static/media/qr-code.8c56f50945bb3d4c143b.png",
     "static/media/Mohit-Resume.pdf": "/static/media/Mohit-Resume.6b7b004c6a346c722dd0.pdf",
     "static/media/order-summary-component-ui.jpeg": "/static/media/order-summary-component-ui.ebf614f016db70814d65.jpeg",
@@ -15,11 +15,11 @@
     "static/media/tailwindcss-icon.svg": "/static/media/tailwindcss-icon.7517d8268ceffdf1099e001fc08ce706.svg",
     "static/media/typescript-icon.svg": "/static/media/typescript-icon.3093239724acfe1b71682a7605abacc5.svg",
     "index.html": "/index.html",
-    "main.e67a3f42.css.map": "/static/css/main.e67a3f42.css.map",
-    "main.04b03705.js.map": "/static/js/main.04b03705.js.map"
+    "main.7692f7cf.css.map": "/static/css/main.7692f7cf.css.map",
+    "main.77fe00d9.js.map": "/static/js/main.77fe00d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e67a3f42.css",
-    "static/js/main.04b03705.js"
+    "static/css/main.7692f7cf.css",
+    "static/js/main.77fe00d9.js"
   ]
 }
